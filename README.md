@@ -2,7 +2,7 @@
 ## I'm Ayush Anand
 a deep learning nanodegree graduate and working closely towards creating new opportunities with AI in healthcare
 
-- 🔭 I’m currently working on **RespirCov** | *A blockchain powered ventilator andhospital beds tracker*
+- 🔭 I’m currently working on **RespirCov** | *A blockchain powered ventilator and hospital beds tracker*
 - 👯 I’m looking to collaborate on **research opportunities in AI in the healthcare domain**
 - 📫 How to reach me: **You can reach me anytime on [LinkedIn](https://linkedin.com/in/theayushanand)**
 - ⚡ Fun fact: **I'm still a high schooler!**
