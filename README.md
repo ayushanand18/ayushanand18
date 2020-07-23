@@ -17,7 +17,7 @@ a deep learning nanodegree graduate and working closely towards creating new opp
   <img  alt="Linkedin" width="90px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg" />
 </a>
 &nbsp;
-<a href="https://medium.com/theayushanand">
+<a href="https://medium.com/@theayushanand">
   <img  alt="Medium" width="98px" src="https://miro.medium.com/max/2000/1*5ztbgEt4NqpVaxTc64C-XA.png" />
 </a>
 
