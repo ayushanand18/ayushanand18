@@ -8,16 +8,6 @@ a deep learning nanodegree graduate and working closely towards creating new opp
 - ⚡ Fun fact: **I'm still a high schooler!**
 - 🤔 My Skills: **HTML, Python, React Native, Azure ML, IBM Cloud**
 
-## Hi there 👋
-## I'm Ayush Anand
-a deep learning nanodegree graduate and working closely towards creating new opportunities with AI in healthcare
-
-- 🔭 I’m currently working on **RespirCov** | *A blockchain powered ventilator andhospital beds tracker*
-- 👯 I’m looking to collaborate on **research opportunities in AI in the healthcare domain**
-- 📫 How to reach me: **You can reach me anytime on (LinkedIn)[https://linkedin.com/in/theayushanand]**
-- ⚡ Fun fact: **I'm still a high schooler!**
-- 🤔 My Skills: **HTML, Python, React Native, Azure ML, IBM Cloud**
-
 
 <a href="https://twitter.com/theayushanand">
   <img  alt="Twitter" width="34px" style="position:relative;bottom:-5px" src="https://cdn3.iconfinder.com/data/icons/basicolor-reading-writing/24/077_twitter-128.png" />
@@ -33,26 +23,6 @@ a deep learning nanodegree graduate and working closely towards creating new opp
 
 </div>
 
-
-### Thank You 🙏
-<!--
-**ayushanand18/ayushanand18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-<img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/paVD7uL8uz6us/giphy.gif" />
-<br />
 
 ### Thank You 🙏
 <!--
