@@ -9,6 +9,9 @@ a deep learning nanodegree graduate and working closely towards creating new opp
 - 🤔 My Skills: **HTML, JavaSript, Python, PyTorch, React Native, Azure ML, IBM Cloud**
 
 
+[![Ayush Anand's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayushanand18)](https://github.com/ayushanand18)
+
+
 <a href="https://twitter.com/theayushanand">
   <img  alt="Twitter" width="34px" style="position:relative;bottom:-5px" src="https://cdn3.iconfinder.com/data/icons/basicolor-reading-writing/24/077_twitter-128.png" />
 </a>
