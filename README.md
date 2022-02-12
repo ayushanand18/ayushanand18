@@ -4,11 +4,12 @@
 ## Things I do
 + Hacker's Tribe community member - Delhi NCR's largest open source community at Noida.
 + research on how deep learning can help fight the climate crisis.
++ ISTE NIT Durgapur Students Branch - Content Writer. I write about Tech, STEM
 + experiment with CNNs, GANs, ANNs and love playing with their hyperparameters. I am a Udacity deep learning nanodegree graduate.
 + writing a weekly blog of thoughts into geopolitics, stem, nature and mankind.
 
 ## Projects I'm working on
-+ improving a deep learning pipeline on multi-modal communication by [Red Hen Lab](https://www.redhenlab.org) (Open Source Organisation.)
++ researching on conditional generative adverserial networks (cGAN) application into restoring ancient sculptures.
 
 ## Things I did previously
 + built a blockchain powered to tool to track hospital beds and ventilators in COVID19 hospitals.
@@ -17,7 +18,7 @@
 + built a google assistant chatbot to help detect fake news.
 
 ## Tools and tech I use
-+ PyTorch, Python, ReactJS, Microsoft Azure, NodeJS, MySQL.
++ PyTorch, Tensorflow Keras, Python, ReactJS, Microsoft Azure, NodeJS, MySQL.
 
 ## Connect with me
 &nbsp;
