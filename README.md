@@ -1,5 +1,5 @@
 ## Hi, I am Ayush Anand 👋
-### I am a CS Undergrad @NIT Durgapur and a Machine Learning Developer leveraging AI for Social Good.
+### I am a CS Undergrad @ NIT Durgapur and a Machine Learning Developer leveraging AI for Social Good.
 
 ## Things I do
 + Hacker's Tribe community member - Delhi NCR's largest open source community at Noida.
@@ -9,9 +9,11 @@
 + writing a weekly blog of thoughts into geopolitics, stem, nature and mankind.
 
 ## Projects I'm working on
-+ researching on conditional generative adverserial networks (cGAN) application into restoring ancient sculptures.
++ working on an open-source python package for Ocean data.
++ working with NGOs to implement a code for good project.
 
 ## Things I did previously
++ built a web-based chatbot that can help reduce unreported abuses.
 + built a blockchain powered to tool to track hospital beds and ventilators in COVID19 hospitals.
 + built a deep learning FasterRCNN model on underwater image data from the Great Barrier Reef to distinguish COTS.
 + handled shared responsibility for managing Rotary Sponsored Interact Club programs such as raising awareness against Polio Eradication and Donation drives to local Orphanages in high school.
