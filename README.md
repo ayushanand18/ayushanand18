@@ -20,22 +20,12 @@
 + built a google assistant chatbot to help detect fake news.
 
 ## Tools and tech I use
-+ PyTorch, Tensorflow Keras, Python, ReactJS, Microsoft Azure, NodeJS, MySQL.
++ PyTorch, Python, Tensorflow Keras, Firebase, NodeJS, Microsoft Azure, ReactJS, MySQL.
 
 ## Connect with me
-&nbsp;
-<a href="https://twitter.com/theayushanand">
-  <img  alt="Twitter" width="30px" style="position:relative;bottom:-6px" src="https://cdn3.iconfinder.com/data/icons/basicolor-reading-writing/24/077_twitter-128.png" />
-</a>
-&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/theayushanand">
-  <img  alt="Linkedin" width="90px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg" />
-</a>
-&nbsp;&nbsp;
-<a href="https://medium.com/@theayushanand">
-  <img  alt="Medium" width="98px" src="https://miro.medium.com/max/2000/1*5ztbgEt4NqpVaxTc64C-XA.png" />
-</a>
-<br/><br/>
+[![twitter](https://img.shields.io/badge/Twitter-ffffff?style=for-the-badge&logo=Twitter&logoColor=0098e0)]](https://twitter.com/theayushanand)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0098e0?style=for-the-badge&logo=LinkedIn&logoColor=white)]](https://linkedin.com/in/theayushanand)
+[![medium](https://img.shields.io/badge/Medium-ffffff?style=for-the-badge&logo=Medium&logoColor=0be370)]](https://medium.com/@theayushanand)
 
 [![Ayush Anand's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayushanand18&count_private=true&show_icons=true&theme=radical)](https://github.com/ayushanand18)
 
