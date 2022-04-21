@@ -23,9 +23,9 @@
 + PyTorch, Python, Tensorflow Keras, Firebase, NodeJS, Microsoft Azure, ReactJS, MySQL.
 
 ## Connect with me
-[![twitter](https://img.shields.io/badge/Twitter-ffffff?style=for-the-badge&logo=Twitter&logoColor=0098e0)]](https://twitter.com/theayushanand)
-[![linkedin](https://img.shields.io/badge/LinkedIn-0098e0?style=for-the-badge&logo=LinkedIn&logoColor=white)]](https://linkedin.com/in/theayushanand)
-[![medium](https://img.shields.io/badge/Medium-ffffff?style=for-the-badge&logo=Medium&logoColor=0be370)]](https://medium.com/@theayushanand)
+[![twitter](https://img.shields.io/badge/Twitter-ffffff?style=for-the-badge&logo=Twitter&logoColor=0098e0)](https://twitter.com/theayushanand)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0098e0?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/theayushanand)
+[![medium](https://img.shields.io/badge/Medium-ffffff?style=for-the-badge&logo=Medium&logoColor=0be370)](https://medium.com/@theayushanand)
 
 [![Ayush Anand's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayushanand18&count_private=true&show_icons=true&theme=radical)](https://github.com/ayushanand18)
 
