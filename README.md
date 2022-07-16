@@ -1,7 +1,7 @@
 # Hi, I am Ayush Anand 👋
 
 ## About Me 🚀
-I am a CS Undergrad @ NIT Durgapur and a Machine Learning Developer leveraging AI for Social Good.
+Apart from being a GSoC 2022 student for IOOS, I am a CS Undergrad @ NIT Durgapur and a Machine Learning Developer leveraging AI for Social Good.
 
 ## Things I do 💻
 + research on how deep learning can help fight the climate crisis.
