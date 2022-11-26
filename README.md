@@ -11,10 +11,12 @@ Apart from being a GSoC 2022 student for IOOS, I am a CS Undergrad @ NIT Durgapu
 + writing a weekly blog of thoughts into tech, stem, nature and mankind - read me on Medium.
 
 ## Projects I'm working on 👨‍💻
-+ working on an open-source python package for Open Ocean data.
-+ working with an NGO to implement a code for good project against child abuse.
++ helping maintain an open-source python package for [Open Ocean Data](https://github.com/iobis/pyobis)
++ working on a Drawin Core Data Visualization [python package](https://github.com/marinebon/py-dwc-viz)
 
 ## Things I did previously 🔎
++ worked on an open-source python package for Open Ocean data.
++ worked with an NGO to implement a code for good project against child abuse.
 + built a web-based chatbot that can help reduce unreported abuses.
 + built a blockchain powered to tool to track hospital beds and ventilators in COVID19 hospitals.
 + built a deep learning FasterRCNN model on underwater image data from the Great Barrier Reef to distinguish COTS.
@@ -22,8 +24,8 @@ Apart from being a GSoC 2022 student for IOOS, I am a CS Undergrad @ NIT Durgapu
 + built a google assistant chatbot to help detect fake news.
 
 ## Tools and tech I use tool 🖥
-+ PyTorch, Python, Tensorflow Keras, Firebase, NodeJS, Microsoft Azure, ReactJS, MySQL
-+ VS Code, Git, IBM Cloud Functions
++ PyTorch, Python (pandas, numpy, matplotlib, and the whole ecosystem), Tensorflow Keras, Firebase, NodeJS, Microsoft Azure, ReactJS, MySQL
++ VS Code, Git, Vercel, IBM Cloud Functions, Netlify
 
 ## Connect with me 👨‍🚀
 [![twitter](https://img.shields.io/badge/Twitter-ffffff?style=for-the-badge&logo=Twitter&logoColor=0098e0)](https://twitter.com/theayushanand)
