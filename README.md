@@ -4,8 +4,9 @@
 Apart from being a GSoC 2022 student for IOOS, I am a CS Undergrad @ NIT Durgapur and a Machine Learning Developer leveraging AI for Social Good.
 
 ## Things I do 💻
-+ research on how deep learning can help fight the climate crisis.
-+ Hacker's Tribe community member - Delhi NCR's largest open source community at Noida.
++ working on mapping diversity through diversity indices.
++ building a med-tech app to detect heart disease using eye images.
++ Hacker's Tribe community member - Delhi NCR's largest open source community.
 + ISTE NIT Durgapur Students Branch - Content Writer. I write about Tech, STEM
 + experiment with CNNs, GANs, ANNs and love playing with their hyperparameters. I am a Udacity deep learning nanodegree graduate.
 + writing a weekly blog of thoughts into tech, stem, nature and mankind - read me on Medium.
