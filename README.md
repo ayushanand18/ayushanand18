@@ -4,16 +4,16 @@
 Working as an AI Developer Intern at @Openfabric and an active open source contributor, I have been a Google Summer of Code 2022 student for IOOS. I am a CS Undergrad @ NIT Durgapur and a Machine Learning Developer leveraging AI for Social Good.
 
 ## Things I do 💻
++ working in a Web3 AI "deep-tech" startup, developing cutting-edge AI Apps.
 + working on mapping diversity through diversity indices.
-
 + Hacker's Tribe community member - Delhi NCR's largest open source community.
-+ ISTE NIT Durgapur Students Branch - Content Writer. I write about Tech, STEM
++ ISTE NIT Durgapur Students Branch - Content Writer. I write about Tech, STEM and everything else.
 + experiment with CNNs, GANs, ANNs and love playing with their hyperparameters. I am a Udacity deep learning nanodegree graduate.
 + writing a weekly blog of thoughts into tech, stem, nature and mankind - read me on Medium.
 
 ## Projects I'm working on 👨‍💻
 + helping maintain an open-source python package for [Open Ocean Data](https://github.com/iobis/pyobis)
-+ working on a Drawin Core Data Visualization [python package](https://github.com/marinebon/py-dwc-viz)
++ working on a Darwin Core Data Visualization [python package](https://github.com/marinebon/py-dwc-viz)
 
 ## Things I did previously 🔎
 + built a med-tech app to detect heart disease using eye images.
