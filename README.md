@@ -5,7 +5,7 @@ Working as an AI Developer Intern at @Openfabric and an active open source contr
 
 ## Things I do 💻
 + working on mapping diversity through diversity indices.
-+ building a med-tech app to detect heart disease using eye images.
+
 + Hacker's Tribe community member - Delhi NCR's largest open source community.
 + ISTE NIT Durgapur Students Branch - Content Writer. I write about Tech, STEM
 + experiment with CNNs, GANs, ANNs and love playing with their hyperparameters. I am a Udacity deep learning nanodegree graduate.
@@ -16,7 +16,8 @@ Working as an AI Developer Intern at @Openfabric and an active open source contr
 + working on a Drawin Core Data Visualization [python package](https://github.com/marinebon/py-dwc-viz)
 
 ## Things I did previously 🔎
-+ worked on an open-source python package for Open Ocean data.
++ built a med-tech app to detect heart disease using eye images.
++ built an open-source [python package for fetching Earth and Atmospheric data](https://pypi.org/PyEarthData) as easily as calling a function.
 + worked with an NGO to implement a code for good project against child abuse.
 + built a web-based chatbot that can help reduce unreported abuses.
 + built a blockchain powered to tool to track hospital beds and ventilators in COVID19 hospitals.
