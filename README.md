@@ -1,7 +1,7 @@
 # Hi, I am Ayush Anand 👋
 
 ## About Me 🚀
-Working as an AI Developer Intern at @Openfabric and an active open source contributor, I have been a Google Summer of Code 2022 student for IOOS. I am a CS Undergrad @ NIT Durgapur and a Machine Learning Developer leveraging AI for Social Good.
+Worked as an AI Developer Intern at @Openfabric and an active open source contributor and maintainer, I have been a Google Summer of Code 2022 student for IOOS. I am a CS Undergrad @ NIT Durgapur and a Machine Learning Developer leveraging AI for Social Good.
 
 ## Things I do 💻
 + working on mapping diversity through diversity indices.
