@@ -11,6 +11,8 @@ Worked as an AI Developer Intern at @Openfabric and an active open source contri
 + writing a weekly blog of thoughts into tech, stem, nature and mankind - read me on Medium.
 
 ## Projects I'm working on 👨‍💻
++ creating a custom branded ChatGPT alternative for a South American EdTech Company.
++ creating a AI based conversation booking ecommerce site with an American Fitness Brand.
 + working in a Web3 AI "deep-tech" startup, developing cutting-edge AI Apps.
 + helping maintain an open-source python package for [Open Ocean Data](https://github.com/iobis/pyobis)
 + working on a Darwin Core Data Visualization [python package](https://github.com/marinebon/py-dwc-viz)
