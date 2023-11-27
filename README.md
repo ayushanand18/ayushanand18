@@ -19,7 +19,7 @@ Worked as an AI Developer Intern at @Openfabric and an active open source contri
 
 ## Things I did previously 🔎
 + built a med-tech app to detect heart disease using eye images.
-+ built an open-source [python package for fetching Earth and Atmospheric data](https://pypi.org/PyEarthData) as easily as calling a function.
++ built an open-source [python package for fetching Earth and Atmospheric data](https://pypi.org/project/PyEarthData) as easily as calling a function.
 + worked with an NGO to implement a code for good project against child abuse.
 + built a web-based chatbot that can help reduce unreported abuses.
 + built a blockchain powered to tool to track hospital beds and ventilators in COVID19 hospitals.
