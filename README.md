@@ -27,8 +27,8 @@ Worked as an AI Developer Intern at @Openfabric and an active open source contri
 + built a google assistant chatbot to help detect fake news. I am a Udacity deep learning nanodegree graduate.
 
 ## Tools and tech I use tool 🖥
-+ PyTorch, Python (pandas, numpy, matplotlib, and the whole ecosystem), Tensorflow Keras, Firebase, NodeJS, Microsoft Azure, ReactJS, MySQL
-+ VS Code, Git, Vercel, IBM Cloud Functions, Netlify
++ C++, Python, JavaScript, TypeScript, MySQL, FastAPI, Node.js, Next.js, React, Redis, Git, RPC, Dask, Pandas, CI/CD
++ Google Firebase, Microsoft Azure, Docker, AWS, Vercel, Linux, REST API
 
 ## Connect with me 👨‍🚀
 [![twitter](https://img.shields.io/badge/Twitter-ffffff?style=for-the-badge&logo=Twitter&logoColor=0098e0)](https://twitter.com/theayushanand)
