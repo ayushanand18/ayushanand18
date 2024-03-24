@@ -1,31 +1,30 @@
 # Hi, I am Ayush Anand 👋
 
 ## About Me 🚀
-Worked as an AI Developer Intern at @Openfabric and an active open source contributor and maintainer, I have been a Google Summer of Code 2022 student for IOOS. I am a CS Undergrad @ NIT Durgapur and a Machine Learning Developer leveraging AI for Social Good.
+Worked as an AI Developer Intern at @Openfabric and an active open source contributor and maintainer, I have been a Google Summer of Code 2022 student for IOOS. I am a CS Undergrad @ NIT Durgapur, Developing Software for Social Good.
 
 ## Things I do 💻
-+ working on mapping diversity through diversity indices.
-+ Hacker's Tribe community member - Delhi NCR's largest open source community.
-+ ISTE Students' Chapter NIT Durgapur Students Branch - Content Writer. I write about Tech, STEM and everything else.
-+ experiment with CNNs, GANs, ANNs and love playing with their hyperparameters. I am a Udacity deep learning nanodegree graduate.
++ working as a software developer for Crypto News Feed Streaming Platform
++ ISTE Students' Chapter NIT Durgapur Students Branch - Senior Coordinator (Sponsorship, Content, Tech).
++ experiment with algorithms and sofwtare systems, love playing with their internals. 
 + writing a weekly blog of thoughts into tech, stem, nature and mankind - read me on Medium.
++ Hacker's Tribe community member - Delhi NCR's largest open source community.
 
 ## Projects I'm working on 👨‍💻
-+ creating a custom branded ChatGPT alternative for a South American EdTech Company.
-+ creating a AI based conversation booking ecommerce site with an American Fitness Brand.
-+ working in a Web3 AI "deep-tech" startup, developing cutting-edge AI Apps.
 + helping maintain an open-source python package for [Open Ocean Data](https://github.com/iobis/pyobis)
 + working on a Darwin Core Data Visualization [python package](https://github.com/marinebon/py-dwc-viz)
 
 ## Things I did previously 🔎
++ created a custom branded ChatGPT alternative for a South American EdTech Company.
++ worked at a Web3 AI "deep-tech" startup, developing cutting-edge AI Apps.
++ worked on mapping diversity through diversity indices.
++ created a AI based conversation booking ecommerce site with an American Fitness Brand.
 + built a med-tech app to detect heart disease using eye images.
 + built an open-source [python package for fetching Earth and Atmospheric data](https://pypi.org/project/PyEarthData) as easily as calling a function.
-+ worked with an NGO to implement a code for good project against child abuse.
-+ built a web-based chatbot that can help reduce unreported abuses.
++ worked with a Child Care NGO to implement a code for good project against child abuse, using a web-based chatbot that can help reduce unreported abuses.
 + built a blockchain powered to tool to track hospital beds and ventilators in COVID19 hospitals.
-+ built a deep learning FasterRCNN model on underwater image data from the Great Barrier Reef to distinguish COTS.
 + handled shared responsibility for managing Rotary Sponsored Interact Club programs such as raising awareness against Polio Eradication and Donation drives to local Orphanages in high school.
-+ built a google assistant chatbot to help detect fake news.
++ built a google assistant chatbot to help detect fake news. I am a Udacity deep learning nanodegree graduate.
 
 ## Tools and tech I use tool 🖥
 + PyTorch, Python (pandas, numpy, matplotlib, and the whole ecosystem), Tensorflow Keras, Firebase, NodeJS, Microsoft Azure, ReactJS, MySQL
