@@ -1,20 +1,22 @@
 # Hi, I am Ayush Anand 👋
 
 ## About Me 🚀
-Worked as an AI Developer Intern at @Openfabric and an active open source contributor and maintainer, I have been a Google Summer of Code 2022 student for IOOS. I am a CS Undergrad @ NIT Durgapur, Developing Software for Social Good.
+SEP Intern @ JP Morgan Chase | Software Developer | GSoC 2022 @IOOS | Python, Azure, React | CS Undergrad @ NIT Durgapur ❤ Open Source
 
 ## Things I do 💻
-+ working as a software developer for Crypto News Feed Streaming Platform
-+ ISTE Students' Chapter NIT Durgapur Students Branch - Senior Coordinator (Sponsorship, Content, Tech).
++ working at JP Morgan Chase as a Software Engineer, building tools that solve critical business issues. 
++ Vice Chairperson of the student society at my campus - ISTE Students' Chapter NIT Durgapur Students Branch. 
++ volunteering software engineering time at MBON (Marine Biodiversity Observation Network)
 + experiment with algorithms and sofwtare systems, love playing with their internals. 
-+ writing a weekly blog of thoughts into tech, stem, nature and mankind - read me on Medium.
-+ Hacker's Tribe community member - Delhi NCR's largest open source community.
++ writing a weekly blog of thoughts into tech, stem, nature and mankind - read me on Medium. 
++ Hacker's Tribe community member - Delhi NCR's largest open source community. 
 
 ## Projects I'm working on 👨‍💻
 + helping maintain an open-source python package for [Open Ocean Data](https://github.com/iobis/pyobis)
 + working on a Darwin Core Data Visualization [python package](https://github.com/marinebon/py-dwc-viz)
 
 ## Things I did previously 🔎
++ worked as a software developer for Crypto News Feed Streaming Platform
 + created a custom branded ChatGPT alternative for a South American EdTech Company.
 + worked at a Web3 AI "deep-tech" startup, developing cutting-edge AI Apps.
 + worked on mapping diversity through diversity indices.
