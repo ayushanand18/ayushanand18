@@ -6,7 +6,7 @@ SEP Intern @ JP Morgan Chase | Software Developer | GSoC 2022 @IOOS | Python, Az
 ## Things I do 💻
 + working at JP Morgan Chase as a Software Engineer, building tools that solve critical business issues. 
 + Vice Chairperson of the student society at my campus - ISTE Students' Chapter NIT Durgapur Students Branch. 
-+ volunteering software engineering time at MBON (Marine Biodiversity Observation Network)
++ volunteering software engineering time at MBON (Marine Biodiversity Observation Network), working to save animals. 
 + experiment with algorithms and sofwtare systems, love playing with their internals. 
 + writing a weekly blog of thoughts into tech, stem, nature and mankind - read me on Medium. 
 + Hacker's Tribe community member - Delhi NCR's largest open source community. 
