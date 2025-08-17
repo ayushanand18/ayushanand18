@@ -1,16 +1,16 @@
 # Hi, I am Ayush Anand 👋
 
 ## About Me 🚀
-tech @zomato, prev @jpmorganchase, google soc, @Openfabric • software developer • golang, aws, databases, networks ❤ open source 
+tech [@zomato](https://github.com/zomato), prev [@jpmorganchase](https://github.com/jpmorganchase), google soc, [@openfabric ai](https://github.com/openfabric) • software developer • golang, aws, databases, networks ❤ open source 
 
 ## Things I do 💻
-+ experiment with algorithms and sofwtare systems, love playing with their internals at (Zomato)[https://zomato.com/].
++ experiment with algorithms and sofwtare systems, love playing with their internals at [Zomato](https://zomato.com/).
 + volunteering software engineering time at MBON (Marine Biodiversity Observation Network), working to save animals. 
-+ writing a weekly blog of thoughts into tech, stem, nature and mankind - read me on (Medium)[https://medium.com/@theayushanand]. 
++ writing a weekly blog of thoughts into tech, stem, nature and mankind - read me on [Medium](https://medium.com/@theayushanand). 
 + Hacker's Tribe community member - Delhi NCR's largest open source community. 
 
 ## Projects I'm working on 👨‍💻
-+ building an http/3 first server library with some crazy features (written in golang)[https://github.com/ayushanand18/as-http3lib]
++ building an http/3 first server library with some crazy features [written in golang](https://github.com/ayushanand18/as-http3lib)
 + helping maintain an open-source python package for [Open Ocean Data](https://github.com/iobis/pyobis)
 + helping maintain a Darwin Core Data Visualization [python package](https://github.com/marinebon/py-dwc-viz)
 
