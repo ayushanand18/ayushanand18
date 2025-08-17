@@ -1,22 +1,23 @@
 # Hi, I am Ayush Anand 👋
 
 ## About Me 🚀
-SEP Intern @ JP Morgan Chase | Software Developer | GSoC 2022 @IOOS | Python, Azure, React | CS Undergrad @ NIT Durgapur ❤ Open Source
+tech @ zomato, prev jp morgan chase, google soc, openfabric ai • software developer • golang, aws, databases, networks ❤ open source 
 
 ## Things I do 💻
-+ working at JP Morgan Chase as a Software Engineer, building tools that solve critical business issues. 
-+ Vice Chairperson of the student society at my campus - ISTE Students' Chapter NIT Durgapur Students Branch. 
++ experiment with algorithms and sofwtare systems, love playing with their internals at (Zomato)[https://zomato.com/].
 + volunteering software engineering time at MBON (Marine Biodiversity Observation Network), working to save animals. 
-+ experiment with algorithms and sofwtare systems, love playing with their internals. 
-+ writing a weekly blog of thoughts into tech, stem, nature and mankind - read me on Medium. 
++ writing a weekly blog of thoughts into tech, stem, nature and mankind - read me on (Medium)[https://medium.com/@theayushanand]. 
 + Hacker's Tribe community member - Delhi NCR's largest open source community. 
 
 ## Projects I'm working on 👨‍💻
++ building an http/3 first server library with some crazy features (written in golang)[https://github.com/ayushanand18/as-http3lib]
 + helping maintain an open-source python package for [Open Ocean Data](https://github.com/iobis/pyobis)
-+ working on a Darwin Core Data Visualization [python package](https://github.com/marinebon/py-dwc-viz)
++ helping maintain a Darwin Core Data Visualization [python package](https://github.com/marinebon/py-dwc-viz)
 
 ## Things I did previously 🔎
++ working at JP Morgan Chase as a Software Engineer, building tools that solve critical business issues. 
 + worked as a software developer for Crypto News Feed Streaming Platform
++ worked as the vice chair of the student society at my campus - ISTE Students' Chapter NIT Durgapur Students Branch. 
 + created a custom branded ChatGPT alternative for a South American EdTech Company.
 + worked at a Web3 AI "deep-tech" startup, developing cutting-edge AI Apps.
 + worked on mapping diversity through diversity indices.
