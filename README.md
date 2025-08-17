@@ -1,7 +1,7 @@
 # Hi, I am Ayush Anand 👋
 
 ## About Me 🚀
-tech @ zomato, prev jp morgan chase, google soc, openfabric ai • software developer • golang, aws, databases, networks ❤ open source 
+tech @zomato, prev @jpmorganchase, google soc, @Openfabric • software developer • golang, aws, databases, networks ❤ open source 
 
 ## Things I do 💻
 + experiment with algorithms and sofwtare systems, love playing with their internals at (Zomato)[https://zomato.com/].
@@ -26,12 +26,12 @@ tech @ zomato, prev jp morgan chase, google soc, openfabric ai • software deve
 + built an open-source [python package for fetching Earth and Atmospheric data](https://pypi.org/project/PyEarthData) as easily as calling a function.
 + worked with a Child Care NGO to implement a code for good project against child abuse, using a web-based chatbot that can help reduce unreported abuses.
 + built a blockchain powered to tool to track hospital beds and ventilators in COVID19 hospitals.
-+ handled shared responsibility for managing Rotary Sponsored Interact Club programs such as raising awareness against Polio Eradication and Donation drives to local Orphanages in high school.
-+ built a google assistant chatbot to help detect fake news. I am a Udacity deep learning nanodegree graduate.
++ ran a Rotary Sponsored Interact Club with programs such as raising awareness against Polio Eradication and Donation drives to local Orphanages in high school.
++ built a google assistant chatbot to help detect fake news - got some cool swags from Google for this. I am a Udacity deep learning nanodegree graduate.
 
 ## Tools and tech I use tool 🖥
-+ C++, Python, JavaScript, TypeScript, MySQL, FastAPI, Node.js, Next.js, React, Redis, Git, RPC, Dask, Pandas, CI/CD
-+ Google Firebase, Microsoft Azure, Docker, AWS, Vercel, Linux, REST API
++ Golang, MySQL, C++, Python, JavaScript, TypeScript, FastAPI, Node.js, Next.js, React, Git, RPC, Pandas, CI/CD
++ Kafa, DynamoDB, Redis, AWS, Cloudflare, Docker, Google Firebase, Linux
 
 ## Connect with me 👨‍🚀
 [![twitter](https://img.shields.io/badge/Twitter-ffffff?style=for-the-badge&logo=Twitter&logoColor=0098e0)](https://twitter.com/theayushanand)
